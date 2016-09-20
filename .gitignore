@@ -3,6 +3,7 @@
 *.ko
 *.obj
 *.elf
+*.lref
 
 # Precompiled Headers
 *.gch
@@ -31,3 +32,12 @@
 # Debug files
 *.dSYM/
 *.su
+*.cache
+*.pdb
+*.suo
+
+bin/
+debug/
+obj/
+packages/
+.vs/
